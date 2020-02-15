@@ -11,3 +11,5 @@ This application demonstrates the learning of Core Java OOP concepts
 - Explored access modifiers and when to use public, private, or protected
 - Read data from a file and store in an appropriate data structure
 - Generate rando numbers and work with String API
+
+Referenced by udemy!
